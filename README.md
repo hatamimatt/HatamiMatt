@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mehdi Hatami Goloujeh
+# 👋 Hi, I'm Matt Hatami 
 
 🎓 Ph.D. student in Climate Resilience & Hydroclimate Extremes at the University of Florida  
 🌎 Geospatial & Environmental Data Scientist | Remote Sensing | AI for Disaster Management  
