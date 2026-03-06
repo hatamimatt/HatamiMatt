@@ -10,11 +10,9 @@
 
 I work at the intersection of **climate science**, **remote sensing**, and **machine learning**, with a strong emphasis on:
 
-- 🌊 Flood mapping and forecasting using satellite data (SAR, optical) and ground sensors (e.g., traffic cameras, rain gauges)
-- 🛰️ Multi-sensor data fusion for risk-informed infrastructure planning
-- 🧠 Geospatial foundation models & real-time decision support tools
-- 💻 Custom web GIS dashboards (ArcGIS Experience Builder, APIs, automation)
-
+- 🌊 🌡️ Precipitation-Temperature ($P-T$) Scaling & Storm Dynamics: Investigating how thermodynamic and dynamic drivers intensify extreme rainfall. I analyze scaling rates across diverse meteorological regimes—including Atmospheric Rivers, Tropical Cyclones, and Convective Storms—using a multi-source approach that integrates high-resolution station observations, satellite remote sensing, and climate reanalysis data ($ERA5$, $IMERG$).
+🎲 Bayesian Uncertainty & Probabilistic Frameworks: Utilizing Bayesian hierarchical modeling to characterize deep uncertainties in hydroclimate projections. By moving beyond deterministic models, I develop robust probabilistic frameworks that allow for more reliable climate resilience strategies and risk-informed engineering design in non-stationary environments
+📊 Non-Stationary Extreme Value Analysis: Applying advanced statistical methods to identify shifts in the frequency and magnitude of "1-in-100-year" events, ensuring that infrastructure thresholds account for the evolving physics of a warming atmosphere.
 My current project involves integrating AI with remote sensing and on-the-ground data to **predict and monitor floods** in near real-time, helping communities and agencies improve resilience.
 
 ---
